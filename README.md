@@ -1,16 +1,16 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:#090d16,35:#1b1035,70:#3b0066,100:#00f2fe&height=220&section=header&text=About%20kouki_y&fontSize=48&fontColor=00f2fe&animation=fadeIn&fontAlignY=40" width="100%" />
+  <!-- Header Banner (High Contrast Cyber Neon) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:#0d1117,35:#1f0d3d,70:#3d0859,100:#00f2fe&height=200&section=header&text=About%20kouki_y&fontSize=44&fontAlignY=38&fontColor=ffffff&desc=Data%20Engineer%20%7C%20Backend%20Engineer&descSize=18&descAlignY=58&descAlign=50&descColor=00f2fe" width="100%" alt="About kouki_y Banner" />
 
-  <!-- Typing Subtitle -->
+  <!-- Typing Subtitle (Adjusted for high visibility on both light & dark modes) -->
   <a href="https://github.com/kouki-y-dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=false&width=650&height=45&lines=Data+Engineer+%7C+Backend+Engineer;Python+%2B+AWS+Specialist+%E2%9A%A1;Based+in+Sapporo%2C+Japan+%E2%9B%84" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0284C7&center=true&vCenter=true&multiline=false&width=650&height=45&lines=Data+Engineer+%7C+Backend+Engineer;Python+%2B+AWS+Specialist+%E2%9A%A1;Based+in+Sapporo%2C+Japan+%E2%9B%84" alt="Typing SVG" />
   </a>
 
   <!-- Profile Views Counter -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=kouki-y-dev&label=PROFILE+VIEWS&style=for-the-badge&color=00f2fe&base=100" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=kouki-y-dev&label=PROFILE+VIEWS&style=for-the-badge&color=0284c7&base=100" alt="Profile Views" />
   </p>
 
 </div>
@@ -73,39 +73,33 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 📊 GitHub Stats & Streak
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kouki-y-dev&theme=radical&no-frame=true&no-bg=true&margin_w=4" alt="GitHub Trophies" />
-</div>
-
----
-
-### 📊 GitHub Stats & Activity
-
-<div align="center">
-  <!-- GitHub Stats & Top Langs side by side -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kouki-y-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f2fe&icon_color=ff007f&text_color=e0e6ed" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kouki-y-dev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f2fe&text_color=e0e6ed" height="175" alt="Top Languages" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-stats-extended.vercel.app/api?username=kouki-y-dev&show_icons=true&theme=radical&border_color=00f2fe&bg_color=0d1117&title_color=00f2fe&icon_color=ff007f&text_color=e0e6ed" height="175" alt="GitHub Stats" />
+  <!-- Top Languages Card -->
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kouki-y-dev&layout=compact&theme=radical&border_color=00f2fe&bg_color=0d1117&title_color=00f2fe&text_color=e0e6ed" height="175" alt="Top Languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kouki-y-dev&theme=radical&hide_border=true&background=0d1117&ring=00f2fe&fire=ff007f&currStreakLabel=00f2fe" alt="GitHub Streak" />
+  <!-- GitHub Streak Card -->
+  <img src="https://streak-stats.demolab.com/?user=kouki-y-dev&theme=radical&border_color=00f2fe&background=0d1117&ring=00f2fe&fire=ff007f&currStreakLabel=00f2fe" alt="GitHub Streak" />
 </div>
 
 <br />
 
 <div align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kouki-y-dev&theme=react-dark&bg_color=0d1117&color=00f2fe&line=ff007f&point=00f2fe&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <!-- GitHub Profile Summary Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kouki-y-dev&theme=radical" width="48%" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kouki-y-dev&theme=radical" width="48%" alt="Repos per Language" />
 </div>
 
 ---
 
 <div align="center">
   <!-- Footer Banner / Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:#00f2fe,30:#3b0066,70:#1b1035,100:#090d16&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:#00f2fe,30:#3d0859,70:#1f0d3d,100:#0d1117&height=100&section=footer" width="100%" alt="Footer Banner" />
 </div>
