@@ -3,7 +3,7 @@
   <!-- Header Banner (High Contrast Cyber Neon) -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:#0d1117,35:#1f0d3d,70:#3d0859,100:#00f2fe&height=200&section=header&text=About%20kouki_y&fontSize=44&fontAlignY=38&fontColor=ffffff&desc=Data%20Engineer%20%7C%20Backend%20Engineer&descSize=18&descAlignY=58&descAlign=50&descColor=00f2fe" width="100%" alt="About kouki_y Banner" />
 
-  <!-- Typing Subtitle (Adjusted for high visibility on both light & dark modes) -->
+  <!-- Typing Subtitle -->
   <a href="https://github.com/kouki-y-dev">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0284C7&center=true&vCenter=true&multiline=false&width=650&height=45&lines=Data+Engineer+%7C+Backend+Engineer;Python+%2B+AWS+Specialist+%E2%9A%A1;Based+in+Sapporo%2C+Japan+%E2%9B%84" alt="Typing SVG" />
   </a>
@@ -73,28 +73,35 @@
 
 ---
 
-### 📊 GitHub Stats & Streak
+### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-stats-extended.vercel.app/api?username=kouki-y-dev&show_icons=true&theme=radical&border_color=00f2fe&bg_color=0d1117&title_color=00f2fe&icon_color=ff007f&text_color=e0e6ed" height="175" alt="GitHub Stats" />
-  <!-- Top Languages Card -->
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kouki-y-dev&layout=compact&theme=radical&border_color=00f2fe&bg_color=0d1117&title_color=00f2fe&text_color=e0e6ed" height="175" alt="Top Languages" />
-</div>
-
-<br />
-
-<div align="center">
-  <!-- GitHub Streak Card -->
-  <img src="https://streak-stats.demolab.com/?user=kouki-y-dev&theme=radical&border_color=00f2fe&background=0d1117&ring=00f2fe&fire=ff007f&currStreakLabel=00f2fe" alt="GitHub Streak" />
-</div>
-
-<br />
-
-<div align="center">
-  <!-- GitHub Profile Summary Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kouki-y-dev&theme=radical" width="48%" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kouki-y-dev&theme=radical" width="48%" alt="Repos per Language" />
+  <table align="center" style="border: none; border-collapse: collapse;">
+    <!-- Row 1: Stats & Top Languages -->
+    <tr style="border: none;">
+      <td align="center" valign="middle" style="border: none; padding: 6px;">
+        <img src="https://github-stats-extended.vercel.app/api?username=kouki-y-dev&show_icons=true&theme=radical&border_color=00f2fe&bg_color=0d1117&title_color=00f2fe&icon_color=ff007f&text_color=e0e6ed" height="195" alt="GitHub Stats" />
+      </td>
+      <td align="center" valign="middle" style="border: none; padding: 6px;">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kouki-y-dev&layout=compact&theme=radical&border_color=00f2fe&bg_color=0d1117&title_color=00f2fe&text_color=e0e6ed" height="195" alt="Top Languages" />
+      </td>
+    </tr>
+    <!-- Row 2: Profile Details & Language Distribution -->
+    <tr style="border: none;">
+      <td align="center" valign="middle" style="border: none; padding: 6px;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kouki-y-dev&theme=radical" height="195" alt="Profile Details" />
+      </td>
+      <td align="center" valign="middle" style="border: none; padding: 6px;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kouki-y-dev&theme=radical" height="195" alt="Repos per Language" />
+      </td>
+    </tr>
+    <!-- Row 3: Streak Stats -->
+    <tr style="border: none;">
+      <td colspan="2" align="center" valign="middle" style="border: none; padding: 6px;">
+        <img src="https://streak-stats.demolab.com/?user=kouki-y-dev&theme=radical&border_color=00f2fe&background=0d1117&ring=00f2fe&fire=ff007f&currStreakLabel=00f2fe" height="195" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
