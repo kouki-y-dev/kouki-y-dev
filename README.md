@@ -98,7 +98,7 @@
     <!-- Row 3: Streak Stats -->
     <tr style="border: none;">
       <td colspan="2" align="center" valign="middle" style="border: none; padding: 6px;">
-        <img src="https://streak-stats.demolab.com/?user=kouki-y-dev&theme=radical&border_color=00f2fe&background=0d1117&ring=00f2fe&fire=ff007f&currStreakLabel=00f2fe" height="195" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=kouki-y-dev&theme=radical&border_color=00f2fe&background=0d1117&ring=00f2fe&fire=ff007f&currStreakLabel=00f2fe&type=svg" height="195" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
