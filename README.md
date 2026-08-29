@@ -5,12 +5,14 @@
 
   <!-- Typing Subtitle -->
   <a href="https://github.com/kouki-y-dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0284C7&center=true&vCenter=true&multiline=false&width=650&height=45&lines=Data+Engineer+%7C+Backend+Engineer;Python+%2B+AWS+Specialist+%E2%9A%A1;Based+in+Sapporo%2C+Japan+%E2%9B%84" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0284C7&center=true&vCenter=true&multiline=false&width=650&height=45&lines=Data+Engineer+%7C+Backend+Engineer;Python+%26+AWS+Developer+%F0%9F%92%BB;Based+in+Sapporo%2C+Japan+%E2%9B%84" alt="Typing SVG" />
   </a>
 
-  <!-- Profile Views Counter -->
+  <!-- Quick Status Badges -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=kouki-y-dev&label=PROFILE+VIEWS&style=for-the-badge&color=0284c7&base=100" alt="Profile Views" />
+    <img src="https://img.shields.io/github/stars/kouki-y-dev?label=TOTAL%20STARS&style=for-the-badge&logo=github&color=0284c7&logoColor=white" alt="Total Stars" />
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=0284c7&label=PUBLIC%20REPOS&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkouki-y-dev&logo=github&logoColor=white" alt="Public Repos" />
   </p>
 
 </div>
