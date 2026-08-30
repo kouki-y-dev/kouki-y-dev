@@ -22,7 +22,14 @@
 ### ⚡ Introduction
 
 <p align="left">
-札幌で <strong>Python</strong> と <strong>AWS</strong> をメインで触っているデータエンジニア兼バックエンドエンジニアです。
+札幌で <strong>Python</strong> と <strong>AWS</strong> をメインで触っているデータエンジニア兼バックエンドエンジニアです。<br>
+詳細な自己紹介・職務経歴・スキルセット・履歴書などは、下記のポートフォリオサイトにて公開しています。ぜひご覧ください！
+</p>
+
+<p align="left">
+  <a href="https://kouki-y-dev.github.io/about-me/" target="_blank">
+    <img src="https://img.shields.io/badge/View_Profile_&_Resume-00f2fe?style=for-the-badge&logo=readme&logoColor=0d1117" alt="View Profile & Resume" />
+  </a>
 </p>
 
 ---
