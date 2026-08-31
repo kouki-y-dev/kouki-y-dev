@@ -77,7 +77,6 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
   <img src="https://img.shields.io/badge/Google_Apps_Script-0288D1?style=for-the-badge&logo=google-apps-script&logoColor=white" alt="Google Apps Script" />
-  <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-365&logoColor=white" alt="Microsoft 365" />
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel" />
   <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Microsoft Word" />
   <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="Microsoft PowerPoint" />
