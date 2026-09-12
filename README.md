@@ -112,7 +112,7 @@
 
 #### 🎨 Skill Icons
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,fastapi,django,aws,postgres,mysql,linux,terraform,docker,githubactions,gitlab,git,vscode&theme=dark" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,fastapi,django,aws,postgres,mysql,linux,terraform,docker,githubactions,gitlab,git,vscode&theme=dark&perline=5" alt="Skill Icons" />
 </div>
 
 ---
