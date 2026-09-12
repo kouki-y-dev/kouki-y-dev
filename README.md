@@ -34,18 +34,35 @@
 
 ---
 
-### 🌐 Connect with me
+### 📊 GitHub Stats & Activity
 
-<div align="left">
-  <a href="https://qiita.com/kouki_y" target="_blank">
-    <img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita" />
-  </a>
-  <a href="https://zenn.dev/yymm" target="_blank">
-    <img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn" />
-  </a>
-  <a href="https://github.com/kouki-y-dev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+<div align="center">
+  <table align="center" style="border: none; border-collapse: collapse;">
+    <!-- Row 1: Stats & Top Languages -->
+    <tr style="border: none;">
+      <td align="center" valign="middle" style="border: none; padding: 6px;">
+        <img src="https://github-stats-extended.vercel.app/api?username=kouki-y-dev&show_icons=true&theme=radical&border_color=00f2fe&bg_color=0d1117&title_color=00f2fe&icon_color=ff007f&text_color=e0e6ed" height="195" alt="GitHub Stats" />
+      </td>
+      <td align="center" valign="middle" style="border: none; padding: 6px;">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kouki-y-dev&layout=compact&theme=radical&border_color=00f2fe&bg_color=0d1117&title_color=00f2fe&text_color=e0e6ed" height="195" alt="Top Languages" />
+      </td>
+    </tr>
+    <!-- Row 2: Profile Details & Language Distribution -->
+    <tr style="border: none;">
+      <td align="center" valign="middle" style="border: none; padding: 6px;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kouki-y-dev&theme=radical" height="195" alt="Profile Details" />
+      </td>
+      <td align="center" valign="middle" style="border: none; padding: 6px;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kouki-y-dev&theme=radical" height="195" alt="Repos per Language" />
+      </td>
+    </tr>
+    <!-- Row 3: Streak Stats -->
+    <tr style="border: none;">
+      <td colspan="2" align="center" valign="middle" style="border: none; padding: 6px;">
+        <img src="https://streak-stats.demolab.com?user=kouki-y-dev&theme=radical&border_color=00f2fe&background=0d1117&ring=00f2fe&fire=ff007f&currStreakLabel=00f2fe&type=svg" height="195" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -100,35 +117,18 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 🌐 Connect with me
 
-<div align="center">
-  <table align="center" style="border: none; border-collapse: collapse;">
-    <!-- Row 1: Stats & Top Languages -->
-    <tr style="border: none;">
-      <td align="center" valign="middle" style="border: none; padding: 6px;">
-        <img src="https://github-stats-extended.vercel.app/api?username=kouki-y-dev&show_icons=true&theme=radical&border_color=00f2fe&bg_color=0d1117&title_color=00f2fe&icon_color=ff007f&text_color=e0e6ed" height="195" alt="GitHub Stats" />
-      </td>
-      <td align="center" valign="middle" style="border: none; padding: 6px;">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kouki-y-dev&layout=compact&theme=radical&border_color=00f2fe&bg_color=0d1117&title_color=00f2fe&text_color=e0e6ed" height="195" alt="Top Languages" />
-      </td>
-    </tr>
-    <!-- Row 2: Profile Details & Language Distribution -->
-    <tr style="border: none;">
-      <td align="center" valign="middle" style="border: none; padding: 6px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kouki-y-dev&theme=radical" height="195" alt="Profile Details" />
-      </td>
-      <td align="center" valign="middle" style="border: none; padding: 6px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kouki-y-dev&theme=radical" height="195" alt="Repos per Language" />
-      </td>
-    </tr>
-    <!-- Row 3: Streak Stats -->
-    <tr style="border: none;">
-      <td colspan="2" align="center" valign="middle" style="border: none; padding: 6px;">
-        <img src="https://streak-stats.demolab.com?user=kouki-y-dev&theme=radical&border_color=00f2fe&background=0d1117&ring=00f2fe&fire=ff007f&currStreakLabel=00f2fe&type=svg" height="195" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+<div align="left">
+  <a href="https://qiita.com/kouki_y" target="_blank">
+    <img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita" />
+  </a>
+  <a href="https://zenn.dev/yymm" target="_blank">
+    <img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn" />
+  </a>
+  <a href="https://github.com/kouki-y-dev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
 
 ---
